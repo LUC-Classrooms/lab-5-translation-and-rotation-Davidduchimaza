@@ -23,7 +23,7 @@ function draw() {
   
   else { 
     rotate(0)
-  
+
 }
   
   line(0, -50, 40, -20);
